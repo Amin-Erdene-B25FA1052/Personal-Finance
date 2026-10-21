@@ -1,0 +1,46 @@
+{
+  "fixture": "capitron_sample_anonymised.xlsx",
+  "note": "Names, account numbers, phone numbers and card digits are replaced. Amounts, dates and descriptions keep the real structure.",
+  "sheet_name": "Хуулга",
+  "header": {
+    "account_no": "MN916681113943733690",
+    "holder_name": "ТЕСТ-ХЭРЭГЛЭГЧ ЖИШЭЭ",
+    "period_text": "2026-07-14 - 2026-10-14",
+    "opening_balance": 22742,
+    "closing_balance": 2092
+  },
+  "rows_in_file": 107,
+  "newest_row": {
+    "posted_at": "2026-10-04 01:51:35",
+    "debit": 50,
+    "credit": 0,
+    "balance_after": 2092
+  },
+  "oldest_row": {
+    "posted_at": "2026-08-08 19:10:27",
+    "debit": 0,
+    "credit": 1005000,
+    "balance_after": 1027742
+  },
+  "file_totals_row": {
+    "debit": 10086350,
+    "credit": 10065700
+  },
+  "debit_total": 10086350,
+  "credit_total": 10065700,
+  "balance_chain_breaks": 0,
+  "shared_timestamp_pairs": 15,
+  "date_min": "2026-08-08",
+  "date_max": "2026-10-04",
+  "fee_lines": 62,
+  "own_lines": 11,
+  "merchant_lines": 34,
+  "unparsed_lines": 0,
+  "merchant_keys": 27,
+  "pos_keys": 5,
+  "acct_keys": 22,
+  "own_debit_total": "4293000",
+  "own_credit_total": "9000000",
+  "external_debit_total": "5793350",
+  "external_credit_total": "1065700"
+}
